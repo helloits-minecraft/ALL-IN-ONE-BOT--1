@@ -1,8 +1,8 @@
 {
     "token": "",
     "language": "en",
-    "prefix": "!",
-    "mongodbUri": "",
+    "prefix": "?",
+    "mongodbUri": "mongodb+srv://Hacker:Hacker@discord.zoc3v.mongodb.net/?retryWrites=true&w=majority",
     "excessCommands": {
         "utility": true,
         "other": true,
